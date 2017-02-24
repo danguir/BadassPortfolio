@@ -447,6 +447,8 @@ b i:last-child {
     text-transform: uppercase;
     color: #999;
     line-height: 1.7
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 
@@ -1133,6 +1135,7 @@ textarea:focus {
     }
     .box-intro h5 {
         font-size: 12px;
+
     }
     .box-primary-nav a {
         padding: 5px 1em;
