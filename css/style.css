@@ -176,7 +176,6 @@ h5 {
 
 /* headr
 ==================================================*/
-
 .box-header {
     position: absolute;
     top: 0;
@@ -683,6 +682,13 @@ b i:last-child {
     }
 }
 
+/* portfolio section work into
+==================================================*/
+
+.box-intro-work {
+    text-align: center;
+    background-color: rgba(255, 191, 0, 0.8);
+}
 
 /* portfolio section
 ==================================================*/
@@ -902,11 +908,11 @@ footer img {
 }
 
 .top-bar h1 {
-    font-size: 60px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: #999;
-    line-height: 50px;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #FFF;
+  line-height: 50px;
 }
 
 .top-bar p {
